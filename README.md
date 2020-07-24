@@ -1,8 +1,22 @@
 <img alt="GoStack" src="https://s7.gifyu.com/images/banner1e0b6f65bf2500fd.gif" />
 
-## :rocket: About the Code
+<div align="center">
+  <h4>
+    <a href="https://travis-ci.org/CCOSTAN/Home-AssistantConfig"><img src="https://travis-ci.org/CCOSTAN/Home-AssistantConfig.svg?branch=master"/></a>
+    <a href="https://github.com/CCOSTAN/Home-AssistantConfig/stargazers"><img src="https://img.shields.io/github/stars/CCOSTAN/Home-AssistantConfig.svg?style=plasticr"/></a>
+    <a href="https://github.com/CCOSTAN/Home-AssistantConfig/commits/master"><img src="https://img.shields.io/github/last-commit/CCOSTAN/Home-AssistantConfig.svg?style=plasticr"/></a>
+        <a href="https://github.com/CCOSTAN/Home-AssistantConfig/commits/master"><img src="https://img.shields.io/github/commit-activity/y/CCOSTAN/Home-AssistantConfig.svg?style=plasticr"/></a>
+    
+  </h4>
+</div>
 
-In this GIT repository, you will find a BE (back-end) application that stores a portfolio of repositories. With this code, you can create, list, update and remove repositories. In addition, each repo can be "liked".
+:star: Star us on GitHub — it helps!
+
+## :rocket: About the Application
+
+In this GitHub repository, you will find a complete application (full-stak) that uses many technologies to allow 
+
+stores a portfolio of repositories. With this code, you can create, list, update and remove repositories. In addition, each repo can be "liked".
 
 We use HTTP methods like GET/POST/PUT/DELETE to allow communication of REST webservices. In BE, we use express to handle the communication, and UUID to manage the ID of users. JSON is the metadata, that allow users to send and receive data of web services.
 
@@ -18,21 +32,10 @@ We use HTTP methods like GET/POST/PUT/DELETE to allow communication of REST webs
 
 - **`POST /repositories/:id/like`**: The route must increase the "likes" number of repository chosen through `id` present in route parameters, for each call on this route, the number of likes must be increased by 1;
 
-### TDDs of Project
-
-All route can be tested using jest and supertest.
-
 ## :computer: Installing Requirements
 
-- yarn add express
-- yarn add nodemon
-- yarn add cors
-- yarn add uuidv4
-- yarn add http
-- yarn add https
-- yarn add fs
-- yarn dev (to automatic development)
-- yarn test (to apply all the tests)
+- Windows Xp or Later
+- Browser like Chrome or Internet Explorer
 
 ## :memo: License
 

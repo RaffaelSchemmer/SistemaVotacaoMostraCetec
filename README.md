@@ -11,7 +11,7 @@
 
 ## 🧿 About the Application Purpose
 
-In this GitHub repository, you will find a **complete parametrizable application** (full-stack and multiple technology) that allow anonimous real-time votation. This application was developed :bulb:, to the CETEC 2019 scientific show , that happened in july of 2019 📅 in Caxias do Sul, RS in Brazil. 
+In this GitHub repository, you will find a **complete parametrizable application** (full-stack and multiple technology) that allow anonimous real-time votation. This application was developed :bulb:, to the CETEC 2019 scientific show , that happened in july of 2019 📅 in Caxias do Sul, RS - Brazil. 
 
 ## :rocket: About the Application Architecture and Technologies
 

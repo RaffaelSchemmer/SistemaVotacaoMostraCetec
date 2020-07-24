@@ -4,9 +4,6 @@
   <h2>
     Real-Time Voting System Using Cloud Computing
   </h2>
-  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)]
-  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)]
-  [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]
 
 </div>
 
@@ -23,7 +20,6 @@ The architecture of application was developed to running in three different type
 ### Application Operation
 
 ## ✅&nbsp; Requirements to Installing the Application
-
 
 ## :computer: Requirements to Running the Application
 

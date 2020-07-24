@@ -1,0 +1,13 @@
+﻿Área 1. Ciências Animais e de Plantas
+Área 2. Biologia Celular, Molecular e Microbiologia
+Área 3. Bioquímica e Química
+Área 4. Ciências da Computação
+Área 5. Ciências Planetárias e Terrestres
+Área 6. Ciências Sociais, Comportamento e Arte
+Área 7. Engenharia Elétrica
+Área 8. Engenharia Eletrônica
+Área 9. Engenharia Mecânica
+Área 10. Engenharia e Materiais
+Área 11. Gerenciamento do Meio Ambiente
+Área 12. Ciências Ambientais
+Área 13. Medicina e Saúde

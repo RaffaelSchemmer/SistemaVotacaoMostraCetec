@@ -1,4 +1,4 @@
-<img alt="GoStack" src="https://github.com/RaffaelSchemmer/SistemaVotacaoMostraCetec/blob/master/img/banner.gif" />
+<img alt="GoStack" src="https://s7.gifyu.com/images/banner1e0b6f65bf2500fd.gif" />
 
 ## :rocket: About the Code
 

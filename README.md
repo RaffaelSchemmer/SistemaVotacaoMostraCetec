@@ -4,9 +4,6 @@
   <h2>
     Real-Time Voting System Using Cloud Computing
   </h2>
-  <a href="https://github.com/sulu/sulu/commits/master" target="_blank">
-        <img src="https://img.shields.io/github/commit-activity/y/sulu/sulu.svg" alt="GitHub commit activity">
-    </a>
   
 </div>
 

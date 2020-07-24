@@ -13,7 +13,7 @@
 
 In this GitHub repository, you will find a **complete parametrizable application** (full-stack and multiple technology) that allow anonimous real-time votation. This application was developed :bulb:, to the CETEC 2019 scientific show , that happened in july of 2019 📅 in Caxias do Sul, RS in Brazil. 
 
-## :rocket About the Application Architecture and Technologies
+## :rocket: About the Application Architecture and Technologies
 
 The architecture of application was developed to running in three different types of machines. :one: First machine, are a responsible touchable screen that running Windows. In this machine, we running a Delphi/VCL application that renders a GRID with knowledge areas of high school (like mathematics of phisics). When user select an area, application draw a LIST with the works of area. User need to select one work (using your finger to scroll the list). When one work is select, the application call a web service, using internal IPv4, a static user and password. To garante the conference of vote, this code write in a local TXT file all votes. All this values, including areas, works, IPv4, user and password, need to be set staticaly in TXT files (present in bin folder). :two: In server (second machine) we have the web service (write in PHP) that receive the request of user and insert the vote in a MySQL DBMS. The user/password mecanisms guarantee that only the votation machine access the database of votation. The last application :three:	of architecture, is a web application write with php and html/css and ajax/javascript. After 1s a web page execute and AJAX request (to web server PHP), that select all votes of MySQL DBMS and render in a BIG pie chart. This graph in responsible, allow that all user visualize the votion status, in your mobile phone. Than, allow that CETEC show in a BIG TVs, the result of votion. In the server side of our real application, we use a IaaS Virtual Machine of Google Cloud Platform with static IPv4. We install an NGINX Http Server (with PHP) and a MySQL server.
 
@@ -40,8 +40,6 @@ We are really open and interest in your opinion about this tool and his ideia. F
 ## 🤝 Found a bug? Missing a specific feature?
 
 Feel free to **file a new issue** with a respective title and description on this repository. If you already found a solution to your problem, **we would love to review your pull request**!
-
----
 
 ## 📘 License
 

@@ -7,7 +7,7 @@
   
 
 </div>
-[![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
+
 :star: Star us on GitHub — it helps!
 
 ## 🧿 About the Application Purpose

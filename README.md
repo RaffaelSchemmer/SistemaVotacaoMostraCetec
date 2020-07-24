@@ -10,8 +10,9 @@
 :star: Star us on GitHub — it helps!
 
 ## 🧿 About the Application Purpose
-
+<div align="justify">
 In this GitHub repository, you will find a **complete parametrizable application** (full-stack and multiple technology) that allow anonimous real-time votation. This application was developed :bulb:, to the CETEC 2019 scientific show , that happened in july of 2019 📅 in Caxias do Sul, RS in Brazil. 
+</div>
 
 ## :rocket: About the Application Architecture and Technologies
 <div align="justify">
@@ -33,16 +34,19 @@ User need to configure all areas of knowledge (areas.txt) and the related works 
 - Computer with Browser like Chrome or Internet Explorer
 
 ## ❤️ Community and Contributions to Future Work
-
+<div align="justify">
 Our major dreaming of this project, is that the community uses this magic tool to evaluate "the feeling" of people, about some subject (like a scientific show), with are implemented in our study case. But, we are open to new ideas to grow this project to the next level. With future work, that you can implement, we suggest a mobile version of Delphi (using FMX). This will allow that every people of show, can vote independently.
+</div>
 
 ## 📫 Have a question? Want to chat? Ran into a problem?
-
+<div align="justify">
 We are really open and interest in your opinion about this tool and his ideia. Feel free to contact us with [e-mail](raffael.schemmer@gmail.com).
+</div>
 
 ## 🤝 Found a bug? Missing a specific feature?
-
+<div align="justify">
 Feel free to **file a new issue** with a respective title and description on this repository. If you already found a solution to your problem, **we would love to review your pull request**!
+</div>
 
 ## 📘 License
 

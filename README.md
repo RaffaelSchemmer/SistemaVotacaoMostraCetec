@@ -1,38 +1,29 @@
 <img alt="GoStack" src="https://s7.gifyu.com/images/banner1e0b6f65bf2500fd.gif" />
 
 <div align="center">
-  <h4>
-    .
-    .
-    .
-    .
-  </h4>
+  <h2>
+    Real-Time Voting System Using Cloud Computing
+  </h2>
+  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)]
+  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)]
+  [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]
+
 </div>
 
 :star: Star us on GitHub — it helps!
 
-## :rocket: About the Application
+## :rocket: About the Application Purpose
 
+In this GitHub repository, you will find a complete application (full-stack and multiple technologies) that allow anonimous real-time votation. This application was developed, to the CETEC 2019 scientific show, that happened in july of 2019 in Caxias do Sul, RS in Brazil. 
 
-In this GitHub repository, you will find a complete application (full-stak) that uses many technologies to allow 
+## :rocket: About the Application Technologies
 
-stores a portfolio of repositories. With this code, you can create, list, update and remove repositories. In addition, each repo can be "liked".
+The architecture of application was developed to running in three different types of machines. Each machine, running a 
 
-We use HTTP methods like GET/POST/PUT/DELETE to allow communication of REST webservices. In BE, we use express to handle the communication, and UUID to manage the ID of users. JSON is the metadata, that allow users to send and receive data of web services.
-
-### Application Routes
-
-- **`POST /repositories`**: This Route receivers `title`, `url` and `techs` (inside body request). When a new GIT repo is create, he will be store like a format: `{ id: "uuid", title: 'Desafio Node.js', url: 'http://github.com/...', techs: ["Node.js", "..."], likes: 0 }`; 
-
-- **`GET /repositories`**: This Route list all GIT repositories;
-
-- **`PUT /repositories/:id`**: This route should only change `title`, `url` and `techs` of repository that own `id` equal than `id` present in the route parameters;
-
-- **`DELETE /repositories/:id`**: The route must delete the repository with `id` present in the route parameters;
-
-- **`POST /repositories/:id/like`**: The route must increase the "likes" number of repository chosen through `id` present in route parameters, for each call on this route, the number of likes must be increased by 1;
+### Application Operation
 
 ## ✅&nbsp; Requirements to Installing the Application
+
 
 ## :computer: Requirements to Running the Application
 

@@ -2,17 +2,17 @@
 
 <div align="center">
   <h4>
-    <a href="https://travis-ci.org/CCOSTAN/Home-AssistantConfig"><img src="https://travis-ci.org/CCOSTAN/Home-AssistantConfig.svg?branch=master"/></a>
-    <a href="https://github.com/CCOSTAN/Home-AssistantConfig/stargazers"><img src="https://img.shields.io/github/stars/CCOSTAN/Home-AssistantConfig.svg?style=plasticr"/></a>
-    <a href="https://github.com/CCOSTAN/Home-AssistantConfig/commits/master"><img src="https://img.shields.io/github/last-commit/CCOSTAN/Home-AssistantConfig.svg?style=plasticr"/></a>
-        <a href="https://github.com/CCOSTAN/Home-AssistantConfig/commits/master"><img src="https://img.shields.io/github/commit-activity/y/CCOSTAN/Home-AssistantConfig.svg?style=plasticr"/></a>
-    
+    .
+    .
+    .
+    .
   </h4>
 </div>
 
 :star: Star us on GitHub — it helps!
 
 ## :rocket: About the Application
+
 
 In this GitHub repository, you will find a complete application (full-stak) that uses many technologies to allow 
 
@@ -32,12 +32,26 @@ We use HTTP methods like GET/POST/PUT/DELETE to allow communication of REST webs
 
 - **`POST /repositories/:id/like`**: The route must increase the "likes" number of repository chosen through `id` present in route parameters, for each call on this route, the number of likes must be increased by 1;
 
-## :computer: Installing Requirements
+## ✅&nbsp; Requirements to Installing the Application
 
-- Windows Xp or Later
-- Browser like Chrome or Internet Explorer
+## :computer: Requirements to Running the Application
 
-## :memo: License
+- Server with IPv4 static in Internet
+- Server that running Http Web Services (NGINX)
+Server with Php 5 or Later
+
+- Computer with Windows Xp or Later
+- Computer with Browser like Chrome or Internet Explorer
+
+## ❤️&nbsp; Community and Contributions
+
+## 📫&nbsp; Have a question? Want to chat? Ran into a problem?
+
+## 🤝&nbsp; Found a bug? Missing a specific feature?
+
+---
+
+## 📘&nbsp; License
 
 This project uses MIT license. See the file [LICENSE](LICENSE) to more details.
 

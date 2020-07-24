@@ -1,4 +1,4 @@
-<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
+<img alt="GoStack" src="https://github.com/RaffaelSchemmer/SistemaVotacaoMostraCetec/blob/master/img/banner.gif" />
 
 ## :rocket: About the Code
 

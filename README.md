@@ -2,13 +2,16 @@
 
 <div align="center">
   <h2>
-    Real-Time Voting System Using Cloud Computing
+    Real-Time Anonimous Voting System Using Cloud Computing
   </h2>
+  <h4>
+    :star: Star us on GitHub — it helps!
+  </h4>
   
 
 </div>
+<img alt="GoStack" src="https://s7.gifyu.com/images/principal.png" />
 
-:star: Star us on GitHub — it helps!
 
 ## 🧿 About the Application Purpose
 <div align="justify">

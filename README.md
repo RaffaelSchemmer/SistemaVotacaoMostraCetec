@@ -31,9 +31,12 @@ User need to configure all areas of knowledge (areas.txt) and the related works 
 
 ## 💻 Requirements to Running the Application
 
+- Server with Linux like Ubuntu Server 20.04 LTS
 - Server with IPv4 static in Internet
 - Server that running Http Web Services (NGINX)
-- Server with Php 5 or Later
+- Server running Mysql Services
+- We recommend that server have a name (like votingcetec.app)
+- Server with Php 5 or Later (7 is the best)
 - Computer with Windows Xp or Later
 - Computer with Browser like Chrome or Internet Explorer
 

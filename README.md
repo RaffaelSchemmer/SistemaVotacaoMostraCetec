@@ -1,4 +1,4 @@
-<img alt="GoStack" src="https://s7.gifyu.com/images/banner1e0b6f65bf2500fd.gif" />
+<img alt="GoStack" src="https://github.com/RaffaelSchemmer/SistemaVotacaoMostraCetec/blob/master/vote.gif" />
 
 <div align="center">
   <h2>
@@ -10,7 +10,6 @@
   
 
 </div>
-<img alt="GoStack" src="https://github.com/RaffaelSchemmer/SistemaVotacaoMostraCetec/blob/master/vote.gif" />
 
 
 ## 🧿 About the Application Purpose

@@ -10,7 +10,7 @@
   
 
 </div>
-<img alt="GoStack" src="https://s7.gifyu.com/images/principal72614a5bfd5d7140.png" />
+<img alt="GoStack" src="https://github.com/RaffaelSchemmer/SistemaVotacaoMostraCetec/blob/master/vote.gif" />
 
 
 ## 🧿 About the Application Purpose
